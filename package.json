@@ -1,6 +1,6 @@
 {
   "name": "wisebusy",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -9,6 +9,6 @@
   "author": "Oleg Elifantiev <oleg@elifantiev.ru>",
   "license": "MIT",
   "dependencies": {
-    "event-loop-monitor": "0.0.1"
+    "event-loop-monitor": "0.0.3"
   }
 }
